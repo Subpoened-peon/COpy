@@ -13,7 +13,7 @@ stylelint ./*.css
 htmlhint ./*.html
 jsonlint ./*.json
 
-if sqlite3 /database/HLS.db "SELECT * FROM Keywords;" >/dev/null; then
+if sqlite3 /app/database/HLS.db "SELECT * FROM Keywords;" >/dev/null; then
     echo "Database connection test successful"
 else
     echo "Database connection test failed"
