@@ -6,3 +6,7 @@ BSU CS481 Capstone project template
 
 ## Linting status
 [![Test](https://github.com/cs481-ekh/s24-gone-phishin/actions/workflows/test.yml/badge.svg)](https://github.com/cs481-ekh/s24-gone-phishin/actions/workflows/test.yml)
+
+
+Hello!
+This copy is for learning github actions without swamping the original repository.
