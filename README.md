@@ -9,3 +9,4 @@ BSU CS481 Capstone project template
 
 
 Hello!
+This copy is for learning github actions without swamping the original repository.
