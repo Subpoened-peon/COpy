@@ -5,8 +5,13 @@
     "version": "1.0",
 
     "permissions": [
-        "sidePanel"
-      ],
+      "sidePanel",
+      {
+          "fileSystem": [
+      "/database/HLS.db"
+          ]
+      }
+    ],
 
     "action": {
       "default_popup": "popup/popup.html",
